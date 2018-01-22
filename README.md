@@ -4,6 +4,26 @@
 [![mattermost][mattermost_badge]][mattermost_link]
 [![indico][indico_badge]][indico_link]
 
+## purpose of this repository
+
+We would like the hackathon to work with little moderation from the IML
+coordinators side. E.g. hacking projects should not be submitted to and then
+approved by us, proposals should be visible to all participants to give
+feedback, make suggestions, etc.
+
+## how to propose a project
+
+Our Idea is to have projects submitted as pull requests, such that you can
+discuss the project with interested participants through the discussion/review
+functionality of pull requests.
+
+When creating a project please indicate:
+
+ - Will you work on the project yourself or is it a suggestion for somebody to pick up?
+ - What prerequesits should/could participants bring with them? / What kind of know-how are you lacking that ideally a participant would contribute (Maybe you want to add a functionality to your favourite ML library and it would be good to know your way around its source code?)
+ - Are there previous works to build upon? Is there something that can be prepared in advance (set up software installation / download dataset)?
+
+
 
 <figure class=video_container">
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=6.047544479370118%2C46.23053702499607%2C6.061706542968751%2C46.23821801159735&amp;layer=mapnik" style="border: 1px solid black"></iframe>
