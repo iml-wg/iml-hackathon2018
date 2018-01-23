@@ -16,16 +16,23 @@ feedback, make suggestions, etc.
 
 ## how to propose a project
 
-Our Idea is to have projects submitted as pull requests, such that you can
-discuss the project with interested participants through the discussion/review
-functionality of pull requests.
+Our Idea is to have projects submitted as pull requests. The actual content of
+the pull request is not so important at this stage (just create a subdirectory
+and put useful files inside) the main discussion and attraction of participants
+should happen in the pull request discussion.
 
-When creating a project please indicate:
+There is a template for pull request descriptions in place, the general idea is to describe:
 
+ - What do you want to do? What is the project about?
  - Will you work on the project yourself or is it a suggestion for somebody to pick up?
  - What prerequesits should/could participants bring with them? / What kind of know-how are you lacking that ideally a participant would contribute (Maybe you want to add a functionality to your favourite ML library and it would be good to know your way around its source code?)
  - Are there previous works to build upon? Is there something that can be prepared in advance (set up software installation / download dataset)?
 
+## outcome
+
+Whatever it is your project aims for (a study, a learning experience, a new
+tool, a feature to an existing tool) we would be happy if you you can present
+your achievement in one of the upcoming IML meetings.
 
 
 <figure class=video_container">
