@@ -1,3 +1,6 @@
+# disclaimer: at the moment we are exploring the technical infrastructure of github and how to optimally use it for this project. Actual content of the page is a placeholder. Stay tuned for the real contents.
+
+
 # 2018 IML workshop hackathon
 
 [![twitter][twitter_badge]][hashtag_link]
