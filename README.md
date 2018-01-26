@@ -22,7 +22,7 @@ There is a template for pull request descriptions in place, the general idea is 
 
  - What do you want to do? What is the project about?
  - Will you work on the project yourself or is it a suggestion for somebody to pick up?
- - What prerequesits should/could participants bring with them? / What kind of know-how are you lacking that ideally a participant would contribute (Maybe you want to add a functionality to your favourite ML library and it would be good to know your way around its source code?)
+ - What prerequisites should/could participants bring with them? / What kind of know-how are you lacking that ideally a participant would contribute (Maybe you want to add a functionality to your favourite ML library and it would be good to know your way around its source code?)
  - Are there previous works to build upon? Is there something that can be prepared in advance (set up software installation / download dataset)?
 
 ## outcome
