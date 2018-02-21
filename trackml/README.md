@@ -13,7 +13,7 @@ We propose during the IML hackathon to walk through TrackML dataset and starting
 already participating to the challenge.
 
 Useful links:
- - [Challenge page on Kaggle](https://www.kaggle.com/c/trackml-particle-identification) (when officially opens)
+ - [Challenge page on Kaggle](https://www.kaggle.com/c/trackml-particle-identification) (when officially opened in March 2018)
  - [Challenge web's site](https://sites.google.com/site/trackmlparticle/)
 
 
