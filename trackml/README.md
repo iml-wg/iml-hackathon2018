@@ -1,5 +1,5 @@
 
-# TrackML hackathon
+# TrackML Kaggle challenge hackathon
 
 At HL-LHC, the seven-fold increase of multiplicity w.r.t. 2018 conditions poses a severe challenge to ATLAS and CMS tracking experiments. Both experiment are revamping their tracking detector, and are optimizing their software. But are there not new algorithms developed outside HEP which could be invoked: for example  MCTS, LSTM, clustering, CNN, geometric deep learning and more?
 We organize on the Kaggle platform a  data science competition to stimulate both the ML and HEP communities to renew core tracking algorithms in preparation of the next generation of particle detectors at the LHC.   
@@ -10,7 +10,7 @@ We ran ttbar+200 minimum bias event into ACTS a simplified (yet accurate) simula
 The challenge will run in two phases:  the first on accuracy (no stringent limit on CPU time) running March to June 2018, and the second (starting in the summer 2018) on the throughput, for a similar accuracy.
 
 We propose during the IML hackathon to walk through TrackML dataset and starting kit, and hold a Q&A session for anyone
-already participating to the challenge.
+planning to or already participating to the challenge.
 
 Useful links:
  - [Challenge page on Kaggle](https://www.kaggle.com/c/trackml-particle-identification) (when officially opens)
